@@ -1,0 +1,8 @@
+# Dupe Plugin By AydenC77
+
+Prefix: "&8[&cDupe&8] &f"
+
+Static-blocked-items:
+  - BEDROCK
+block-creative-only-items: true
+check-shulkers: true
