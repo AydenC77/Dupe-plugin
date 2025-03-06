@@ -1,7 +1,7 @@
 name: Dupe
-version: '1.0-SNAPSHOT'
+version: '1.3'
 main: net.skypixle.dupe.Dupe
-api-version: '1.21.4'
+api-version: '1.21'
 prefix: OpenGenPlugin
 authors: [ AydenC77, Skypixle Team ]
 description: A Plugin By AydenC77
