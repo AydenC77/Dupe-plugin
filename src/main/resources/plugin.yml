@@ -1,7 +1,7 @@
 name: Dupe
 version: '1.0-SNAPSHOT'
 main: net.skypixle.dupe.Dupe
-api-version: '1.21'
+api-version: '1.21.4'
 prefix: OpenGenPlugin
 authors: [ AydenC77, Skypixle Team ]
 description: A Plugin By AydenC77
@@ -9,3 +9,9 @@ website: https://skypixle.net
 commands:
   dupe:
     description: "Hold a item to dupe it"
+  makeundupable:
+    permission: Dupe.makeundupable
+    description: "allows you to make a item undupable"
+permissions:
+  Dupe.makeundupable:
+    description: Allows makeundupable command
